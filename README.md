@@ -1,2 +1,1 @@
-# vibelink-releases
-VibeLink Windows release binaries
+This repository contains VibeLink Windows release binaries only. Source is private, installers are unsigned, and downloads should be verified with SHA256SUMS.txt.
